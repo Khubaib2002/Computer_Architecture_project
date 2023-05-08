@@ -3,7 +3,7 @@
 <!--                                                         -->
 <!-- Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.   -->
 
-<Project Version="7" Minor="49" Path="C:/Users/mk07218/Desktop/RISCV-Verilog-main/detetionunited/Lab_11.xpr">
+<Project Version="7" Minor="49" Path="C:/Users/mk07218/Desktop/Task3_HazardDetection/Lab_11.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
     <Option Name="Id" Val="aba237b4fc3240288029566d19648bd8"/>
@@ -37,7 +37,7 @@
     <Option Name="IPUserFilesDir" Val="$PIPUSERFILESDIR"/>
     <Option Name="IPStaticSourceDir" Val="$PIPUSERFILESDIR/ipstatic"/>
     <Option Name="EnableBDX" Val="FALSE"/>
-    <Option Name="WTXSimLaunchSim" Val="168"/>
+    <Option Name="WTXSimLaunchSim" Val="169"/>
     <Option Name="WTModelSimLaunchSim" Val="0"/>
     <Option Name="WTQuestaLaunchSim" Val="0"/>
     <Option Name="WTIesLaunchSim" Val="0"/>
@@ -73,7 +73,7 @@
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PSRCDIR/sources_1/imports/Desktop/CA_Lab10/CA_Lab10/CA_Lab10.srcs/sources_1/new/ALU_Control.v">
+      <File Path="$PPRDIR/../RISCV-Verilog-main/detetionunited/Lab_11.srcs/sources_1/imports/Desktop/CA_Lab10/CA_Lab10/CA_Lab10.srcs/sources_1/new/ALU_Control.v">
         <FileInfo>
           <Attr Name="ImportPath" Val="$PPRDIR/../CA_Lab10/CA_Lab10/CA_Lab10.srcs/sources_1/new/ALU_Control.v"/>
           <Attr Name="ImportTime" Val="1678778038"/>
@@ -89,7 +89,7 @@
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PSRCDIR/sources_1/imports/Desktop/CA_Lab10/CA_Lab10/CA_Lab10.srcs/sources_1/new/Control_Unit.v">
+      <File Path="$PPRDIR/../RISCV-Verilog-main/detetionunited/Lab_11.srcs/sources_1/imports/Desktop/CA_Lab10/CA_Lab10/CA_Lab10.srcs/sources_1/new/Control_Unit.v">
         <FileInfo>
           <Attr Name="ImportPath" Val="$PPRDIR/../CA_Lab10/CA_Lab10/CA_Lab10.srcs/sources_1/new/Control_Unit.v"/>
           <Attr Name="ImportTime" Val="1679989037"/>
@@ -98,7 +98,7 @@
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PSRCDIR/sources_1/imports/Desktop/CA_Lab8/CA_Lab8.srcs/sources_1/new/Data_Memory.v">
+      <File Path="$PPRDIR/../RISCV-Verilog-main/detetionunited/Lab_11.srcs/sources_1/imports/Desktop/CA_Lab8/CA_Lab8.srcs/sources_1/new/Data_Memory.v">
         <FileInfo>
           <Attr Name="ImportPath" Val="$PPRDIR/../CA_Lab8/CA_Lab8.srcs/sources_1/new/Data_Memory.v"/>
           <Attr Name="ImportTime" Val="1677562182"/>
@@ -107,7 +107,7 @@
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PSRCDIR/sources_1/imports/Pipelined-Processor/EXMEM.v">
+      <File Path="$PPRDIR/../RISCV-Verilog-main/detetionunited/Lab_11.srcs/sources_1/imports/Pipelined-Processor/EXMEM.v">
         <FileInfo>
           <Attr Name="ImportPath" Val="$PPRDIR/../../../../needs/Downloads/HU-CA-Project-main/HU-CA-Project-main/Source/Pipelined-Processor/EXMEM.v"/>
           <Attr Name="ImportTime" Val="1682511260"/>
@@ -130,7 +130,7 @@
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PSRCDIR/sources_1/imports/Pipelined-Processor/IDEX.v">
+      <File Path="$PPRDIR/../RISCV-Verilog-main/detetionunited/Lab_11.srcs/sources_1/imports/Pipelined-Processor/IDEX.v">
         <FileInfo>
           <Attr Name="ImportPath" Val="$PPRDIR/../../../../needs/Downloads/HU-CA-Project-main/HU-CA-Project-main/Source/Pipelined-Processor/IDEX.v"/>
           <Attr Name="ImportTime" Val="1682533161"/>
@@ -139,7 +139,7 @@
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PSRCDIR/sources_1/imports/Pipelined-Processor/IFID.v">
+      <File Path="$PPRDIR/../RISCV-Verilog-main/detetionunited/Lab_11.srcs/sources_1/imports/Pipelined-Processor/IFID.v">
         <FileInfo>
           <Attr Name="ImportPath" Val="$PPRDIR/../../../../needs/Downloads/HU-CA-Project-main/HU-CA-Project-main/Source/Pipelined-Processor/IFID.v"/>
           <Attr Name="ImportTime" Val="1682507664"/>
@@ -148,7 +148,7 @@
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PSRCDIR/sources_1/imports/Desktop/CALab05/CALab05/ImmGen.v">
+      <File Path="$PPRDIR/../RISCV-Verilog-main/detetionunited/Lab_11.srcs/sources_1/imports/Desktop/CALab05/CALab05/ImmGen.v">
         <FileInfo>
           <Attr Name="ImportPath" Val="$PPRDIR/../CALab05/CALab05/ImmGen.v"/>
           <Attr Name="ImportTime" Val="1644627480"/>
@@ -157,7 +157,7 @@
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PSRCDIR/sources_1/imports/Desktop/CALab05/CALab05/InsParser.v">
+      <File Path="$PPRDIR/../RISCV-Verilog-main/detetionunited/Lab_11.srcs/sources_1/imports/Desktop/CALab05/CALab05/InsParser.v">
         <FileInfo>
           <Attr Name="ImportPath" Val="$PPRDIR/../CALab05/CALab05/InsParser.v"/>
           <Attr Name="ImportTime" Val="1644627480"/>
@@ -166,7 +166,7 @@
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PSRCDIR/sources_1/imports/Desktop/CA_Lab8/CA_Lab8.srcs/sources_1/new/Instruction_Memory.v">
+      <File Path="$PPRDIR/../RISCV-Verilog-main/detetionunited/Lab_11.srcs/sources_1/imports/Desktop/CA_Lab8/CA_Lab8.srcs/sources_1/new/Instruction_Memory.v">
         <FileInfo>
           <Attr Name="ImportPath" Val="$PPRDIR/../CA_Lab8/CA_Lab8.srcs/sources_1/new/Instruction_Memory.v"/>
           <Attr Name="ImportTime" Val="1677497700"/>
@@ -175,7 +175,7 @@
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PSRCDIR/sources_1/imports/Pipelined-Processor/MEMWB.v">
+      <File Path="$PPRDIR/../RISCV-Verilog-main/detetionunited/Lab_11.srcs/sources_1/imports/Pipelined-Processor/MEMWB.v">
         <FileInfo>
           <Attr Name="ImportPath" Val="$PPRDIR/../../../../needs/Downloads/HU-CA-Project-main/HU-CA-Project-main/Source/Pipelined-Processor/MEMWB.v"/>
           <Attr Name="ImportTime" Val="1682509808"/>
@@ -184,7 +184,7 @@
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PSRCDIR/sources_1/imports/Desktop/CALab05/CALab05/Mux.v">
+      <File Path="$PPRDIR/../RISCV-Verilog-main/detetionunited/Lab_11.srcs/sources_1/imports/Desktop/CALab05/CALab05/Mux.v">
         <FileInfo>
           <Attr Name="ImportPath" Val="$PPRDIR/../CALab05/CALab05/Mux.v"/>
           <Attr Name="ImportTime" Val="1644627480"/>
@@ -193,7 +193,7 @@
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PSRCDIR/sources_1/imports/Desktop/YDrLoZ/Instruction_Memory/Instruction_Memory.srcs/sources_1/new/Program_Counter.v">
+      <File Path="$PPRDIR/../RISCV-Verilog-main/detetionunited/Lab_11.srcs/sources_1/imports/Desktop/YDrLoZ/Instruction_Memory/Instruction_Memory.srcs/sources_1/new/Program_Counter.v">
         <FileInfo>
           <Attr Name="ImportPath" Val="$PPRDIR/../YDrLoZ/Instruction_Memory/Instruction_Memory.srcs/sources_1/new/Program_Counter.v"/>
           <Attr Name="ImportTime" Val="1678174790"/>
@@ -202,7 +202,7 @@
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PSRCDIR/sources_1/imports/Desktop/Lab7/registers.v">
+      <File Path="$PPRDIR/../RISCV-Verilog-main/detetionunited/Lab_11.srcs/sources_1/imports/Desktop/Lab7/registers.v">
         <FileInfo>
           <Attr Name="ImportPath" Val="$PPRDIR/../Lab7/registers.v"/>
           <Attr Name="ImportTime" Val="1679987292"/>
