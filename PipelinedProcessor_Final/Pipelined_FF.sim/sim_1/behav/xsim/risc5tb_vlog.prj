@@ -1,0 +1,27 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Pipelined_FF.srcs/sources_1/new/ALU_64_bit.v" \
+"../../../../Pipelined_FF.srcs/sources_1/new/ALU_Control.v" \
+"../../../../Pipelined_FF.srcs/sources_1/new/Adder.v" \
+"../../../../Pipelined_FF.srcs/sources_1/new/Control_Unit.v" \
+"../../../../Pipelined_FF.srcs/sources_1/new/Data_Memory.v" \
+"../../../../Pipelined_FF.srcs/sources_1/new/EX_MEM.v" \
+"../../../../Pipelined_FF.srcs/sources_1/new/Forwarding_Unit.v" \
+"../../../../Pipelined_FF.srcs/sources_1/new/Four_MUX.v" \
+"../../../../Pipelined_FF.srcs/sources_1/new/ID_EX.v" \
+"../../../../Pipelined_FF.srcs/sources_1/new/IF_ID.v" \
+"../../../../Pipelined_FF.srcs/sources_1/new/ImmGen.v" \
+"../../../../Pipelined_FF.srcs/sources_1/new/InsParser.v" \
+"../../../../Pipelined_FF.srcs/sources_1/new/Instruction_Memory.v" \
+"../../../../Pipelined_FF.srcs/sources_1/new/MEM_WB.v" \
+"../../../../Pipelined_FF.srcs/sources_1/new/Mux.v" \
+"../../../../Pipelined_FF.srcs/sources_1/new/Program_Counter.v" \
+"../../../../Pipelined_FF.srcs/sources_1/new/registerFile.v" \
+"../../../../Pipelined_FF.srcs/sources_1/new/risc5processor.v" \
+"../../../../Pipelined_FF.srcs/sim_1/new/risc5tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
